@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe.config
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+C:\Users\Asus\Desktop\PROJELER\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
